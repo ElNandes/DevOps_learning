@@ -1,1 +1,0 @@
-puts "Hello im C, #{ARGV.first}!"
